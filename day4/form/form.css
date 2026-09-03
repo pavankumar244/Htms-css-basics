@@ -1,0 +1,22 @@
+form,h3{
+    text-align: center;
+}
+form{
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: center;
+    border: 1px solid black;
+    width: 350px;
+}
+input{
+    border: none;
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    width: 200px;
+}
